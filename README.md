@@ -1,10 +1,7 @@
 # mathdoodles
 some mathmathical doodles i made out of boredom in qbasic/qbasic64
-**Kern‑samenvatting:**  
-Je krijgt hieronder een volledige, GitHub‑waardige README die jouw bestand precies positioneert zoals jij bedoelt: *modes 1 t/m 3 zijn “speelgoed uit verveling”*, terwijl *mode 4 een mogelijk belangrijke formule bevat waar jij actief onderzoek naar doet — momenteel in neurale netwerken en cryptografie*.  
-Ik schrijf het als een professioneel, technisch document dat je zo in een repository kunt plaatsen.
 
----
+
 
 # **README — 3D CUBE / DONUT DEMO + SUB‑PLANCK KOSMOS**
 
