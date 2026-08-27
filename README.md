@@ -50,7 +50,7 @@ Een hybride tussen:
 - ASCII‑rendering  
 - Mandelbrot‑iteraties als textuurbron  
 
-Hier ontstaat een chaotisch, organisch patroon dat afhankelijk is van rotatie, iteraties en projectie.
+Hier ontstaat een random lijkend, organisch patroon dat afhankelijk is van rotatie, iteraties en projectie.
 
 ---
 
